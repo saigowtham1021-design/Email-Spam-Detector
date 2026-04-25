@@ -65,7 +65,7 @@ Email-Spam-Detector/
 ### Step 1: Clone the Repository
 
 ```
-git clone https://github.com/yourusername/Email-Spam-Detector.git
+git clone https://github.com/saigowtham1021-design/Email-Spam-Detector.git
 cd Email-Spam-Detector
 ```
 
