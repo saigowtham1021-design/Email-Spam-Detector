@@ -112,7 +112,7 @@ Prediction: Spam
 
 ## 👨‍💻 Author
 
-**G.Sai Gowtham**
+**G.Shanmuka Ramana Sai Gowtham**
 
 * GitHub: https://github.com/saigowtham1021-design
 
